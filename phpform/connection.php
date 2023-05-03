@@ -14,6 +14,6 @@ die("Error on the connection" .mysqli_error());  //mysqli_error to show error
 }
 else
 {
-echo "<h3>Wow! You're Connected Sucessfully</h3> ";
+//echo "<h3>Wow! You're Connected Sucessfully</h3> ";
 }
 ?>
